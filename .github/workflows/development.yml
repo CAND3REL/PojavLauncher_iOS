@@ -1,4 +1,4 @@
-name: Development build
+name: JRE17 & JRE21 Build
 
 on:
   pull_request:
